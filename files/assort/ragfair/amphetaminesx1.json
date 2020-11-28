@@ -1,0 +1,10 @@
+{
+	"_id": "amphetaminesx1",
+	"_tpl": "amphetaminesx1",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

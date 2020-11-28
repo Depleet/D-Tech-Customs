@@ -1,0 +1,10 @@
+{
+	"_id": "vacuousvoidx1",
+	"_tpl": "vacuousvoidx1",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"name": "DTechCustoms",
+	"version": "1.1.0",
+	"author": "Depleted",
+	"license": "MIT",
+	"src":{
+		"src/modloader.js": "CacheModLoad",
+		"src/life.js": "CacheModLoad",
+		"src/d33p.js": "CacheModLoad",
+		"src/categories.js": "CacheModLoad"
+	},
+	"folders": [
+	"files/assort/ragfair",
+	"files/items",
+	"files/locales/en",
+	"files/templates"
+	],
+	"filenames": [
+	"d33p556x45r",
+	"d33p556x45rd",
+	"d33p556x45rdx",
+	"pmagxd33p556x45r",
+	"britmrex1",
+	"purithermosx1",
+	"dtechbackpack",
+	"DTechCarrier",
+	"DTechEars",
+	"DTechEyes",
+	"DTechHelmet",
+	"amphetaminesx1",
+	"dtechfakx1",
+	"dtechhpstimx1",
+	"fieldsurgkitx1",
+	"CumulativeWhite",
+	"CumulativeRed",
+	"CumulativeGreen",
+	"CumulativeBlue",
+	"CumulativeYellow",
+	"vacuousvoid",
+	"vacuousvoidx1"
+	],
+	"categ": [
+    "test/handbook",
+    "test/templates"
+  ],
+  "things": [
+    "dtechcustoms"
+  ]
+}

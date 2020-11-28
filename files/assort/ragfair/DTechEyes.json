@@ -1,0 +1,10 @@
+{
+	"_id": "DTechEyes",
+	"_tpl": "DTechEyes",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

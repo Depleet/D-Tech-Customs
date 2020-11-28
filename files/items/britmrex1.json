@@ -1,0 +1,73 @@
+{
+	"_id": "britmrex1",
+	"_name": "MOD MRE",
+	"_parent": "5448e8d04bdc2ddf718b4569",
+	"_type": "Item",
+	"_props": {
+		"Name": "MOD MRE",
+		"ShortName": "MOD-MRE",
+		"Description": "Ministry of Defence british soldier MRE with ten meal portions for surviving in harsh conditions",
+		"Weight": 2.6,
+		"BackgroundColor": "red",
+		"Width": 1,
+		"Height": 2,
+		"StackMaxSize": 1,
+		"Rarity": "Rare",
+		"SpawnChance": 20,
+		"CreditsPrice": 4061,
+		"ItemSound": "food_snack",
+		"Prefab": {
+			"path": "assets/content/weapons/usable_items/item_mre/item_mre_loot.bundle",
+			"rcid": ""
+		},
+		"UsePrefab": {
+			"path": "assets/content/weapons/usable_items/item_mre/item_mre_container.bundle",
+			"rcid": ""
+		},
+		"StackObjectsCount": 1,
+		"NotShownInSlot": false,
+		"ExaminedByDefault": false,
+		"ExamineTime": 1,
+		"IsUndiscardable": false,
+		"IsUnsaleable": false,
+		"IsUnbuyable": false,
+		"IsUngivable": false,
+		"IsLockedafterEquip": false,
+		"QuestItem": false,
+		"LootExperience": 30,
+		"ExamineExperience": 10,
+		"HideEntrails": false,
+		"RepairCost": 0,
+		"RepairSpeed": 0,
+		"ExtraSizeLeft": 0,
+		"ExtraSizeRight": 0,
+		"ExtraSizeUp": 0,
+		"ExtraSizeDown": 0,
+		"ExtraSizeForceAdd": false,
+		"MergesWithChildren": false,
+		"CanSellOnRagfair": true,
+		"CanRequireOnRagfair": true,
+		"BannedFromRagfair": false,
+		"ConflictingItems": [],
+		"FixedPrice": false,
+		"Unlootable": false,
+		"UnlootableFromSlot": "FirstPrimaryWeapon",
+		"UnlootableFromSide": [],
+		"ChangePriceCoef": 1,
+		"AllowSpawnOnLocations": [],
+		"SendToClient": false,
+		"AnimationVariantsNumber": 0,
+		"DiscardingBlock": false,
+		"foodUseTime": 5,
+		"foodEffectType": "afterUse",
+		"MaxResource": 10,
+		"StimulatorBuffs": "Buffs_food_mre",
+			"effects_health": {
+				"Energy": {
+					"value": 70
+				}
+			},
+			"effects_damage": []
+		},
+		"_proto": "5448ff904bdc2d6f028b456e"
+}
